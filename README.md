@@ -1,5 +1,6 @@
 
 <div align="center">
+  <img src="./profile/Profile-iamjjintta.png">
   <h3>흔한 찐따</h3>
   <p>
     안녕하세요, 흔한 찐따의 GitHub 페이지 입니다.
