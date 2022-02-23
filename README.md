@@ -30,6 +30,9 @@
       <a href="https://twitter.com/iam_jjintta/">트위터 (Twitter)</a>
     </li>
     <li>
+      <a href="https://www.youtube.com/channel/UChtDaJWzbZwZKWrdhaqhIGg">유튜브 (YouTube)</a>
+    </li>
+    <li>
       <a href="https://discord.com/invite/kwRhwXPb7u">디스코드 채팅서버 (Discord Chatting-Server)</a>
     </li>
   </ul>
