@@ -36,9 +36,6 @@
       <a href="https://www.twitch.tv/iamjjintta">트위치 (Twitch)</a>
     </li>
     <li>
-      <a href="https://discord.com/invite/kwRhwXPb7u">디스코드 채팅서버 (Discord Chatting-Server)</a>
-    </li>
-    <li>
       <a href="https://gallog.dcinside.com/iamjjintta">흔한 찐따의 디시인사이드 갤로그 (Dcinside Gallog)</a>
     </li>
   </ul>
