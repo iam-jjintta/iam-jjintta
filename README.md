@@ -12,7 +12,7 @@
   <h4>SNS</h4>
   <ul>
     <li>
-      이메일 (Email): iamjjintta@gmail.com
+      이메일 (Email): <code>iamjjintta@gmail.com</code>
     </li>
     <li>
       <a href="https://iamjjintta.tistory.com/">티스토리 (Tistory)</a>
